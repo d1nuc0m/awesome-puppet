@@ -45,6 +45,8 @@ This project is not representing these companies, nor is in any way endorsed by 
 - r10k
     - [Fattening the workflow, part 2: r10k - _Puppeteers blog_](https://www.puppeteers.net/blog/fattening-the-workflow-part-2-r10k/) - Quickstart on r10k.
     - [Managing code with r10k - _Puppet Enterprise docs_](https://www.puppet.com/docs/pe/latest/r10k) - PE docs, but r10k can be used with Open Source Puppet.
+- [Vox Pupuli](https://voxpupuli.org/) - Open Source community for Puppet modules, tools and docs authors.
+    - [Plugins list](https://voxpupuli.org/plugins/) - Plugins, tools and resources for Puppet, practically an awesome list.
 
 ## Modules
 
