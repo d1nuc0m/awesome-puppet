@@ -55,6 +55,7 @@ This project is not representing these companies, nor is in any way endorsed by 
 - [puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - Extension of the [Standard Library](https://github.com/puppetlabs/puppetlabs-stdlib).
 - [puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Healthcheck resources.
 - [puppet-puppet_certificate](https://github.com/voxpupuli/puppet-puppet_certificate) - Provider and resource for Puppet certificates.
+- [puppetlabs-puppet_status_check](https://github.com/puppetlabs/puppetlabs-puppet_status_check) - Status checks for the Puppet infrastructure.
 
 ### Modules Development
 
