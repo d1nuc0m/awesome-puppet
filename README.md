@@ -6,10 +6,12 @@ management software.
 It has been inspired by [rnelson0's list](https://github.com/rnelson0/awesome-puppet) and its forks, but it is not a fork of that list due to the lack of a license.
 
 **Disclaimer**: Puppet is a trademark of Puppet, Inc., Perforce Software, Inc. or an affiliate ([link](https://www.puppet.com/docs/puppet/8/copyright-trademark)).
-This project is not representing these companies, nor is in any way endorsed by them. All other trademarks mentioned in this project are property of their respective owners.
+All other trademarks mentioned in this project are property of their respective owners.
+This project is not representing any of these companies/trademark owners, nor is in any way endorsed by them.
 
 ## Contents <!-- omit in toc -->
 - [Books](#books)
+- [Forks](#forks)
 - [IDE tools](#ide-tools)
 - [Learning](#learning)
 - [Modules](#modules)
@@ -22,6 +24,14 @@ This project is not representing these companies, nor is in any way endorsed by 
 
 - [Puppet 8 for DevOps Engineers](https://www.packtpub.com/en-us/product/puppet-8-for-devops-engineers-9781803231709) - Probably the most up-to-date book about Puppet, focusing on the use of Puppet 8.
 - [Puppet Best Practices](https://www.oreilly.com/library/view/puppet-best-practices/9781491922996/) - Written for Puppet 6, it's still a valid resource for Puppet 7/8 due to the focus on best practices and changes between these majors being mostly behind the scenes.
+
+## Forks
+
+- News
+    - [Our Plans for Open Source Puppet in 2025](https://www.puppet.com/blog/open-source-puppet-updates-2025) - 2024/11/07 _Puppet Blog_.
+    - [Puppet\'s Open Source Community Plans to Fork the Program](https://thenewstack.io/puppets-open-source-community-plans-to-fork-the-program/) - 2024/12/20 _The New Stack_.
+    - [First release, hot off the presses!](https://voxpupuli.org/blog/2025/01/21/openvox-release/) - 2025/01/21 _Vox Pupuli Blog_.
+- [OpenVox Automation Framework](https://voxpupuli.org/openvox/) - A soft fork aiming for downstream compatibility with Puppet and codebase modernization.
 
 ## IDE tools
 
